@@ -4,6 +4,7 @@ Here i am pushing new tricks when i found it and if you have any make a request 
 
 
 IDM Trick 
+
 So if are using idm and it get expire and you dont want to use cracked idm because their is always a risk of trojan horse .
 ..\
 So use normal IDM orginal and when its trail period get over just move your file from idm default folder to somewhere else and uninstall idm fully
