@@ -12,8 +12,8 @@ doo this
 
 go to windows run (win keys + r) and type regedit and go on this line and delete it and 
 
-HKEY_USERS\S-1-5-21-3681227441-695364207-2395006485-****_Classes\WOW6432Node
-\CLSID{07999AC3-058B-40BF-984F-69EB1E554CA7}![image](https://user-images.githubusercontent.com/62208869/144101647-6cc64681-b5b9-408c-a008-876188decdc2.png)
+Computer\HKEY_USERS\S-1-5-21-3681227441-695364207-2395006485-****_Classes\WOW6432Node
+\CLSID{07999AC3-058B-40BF-984F-69EB1E554CA7}
 
 and then restart your pc
 
