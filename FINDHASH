@@ -1,0 +1,2 @@
+To find hash of any file in linux use 
+Sha1sum -t file
